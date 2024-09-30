@@ -1,0 +1,5 @@
+aiohttp
+requests
+numpy
+scipy
+python-dotenv
